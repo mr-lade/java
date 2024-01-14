@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>h1</servlet-name>
+<servlet-class>DemoServ</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>h1</servlet-name>
+<url-pattern>/mit</url-pattern>
+</servlet-mapping>
+
+</web-app>
