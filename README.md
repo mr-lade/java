@@ -38,7 +38,7 @@ b) Spring ORM: Integration of Object-Relational Mapping into Spring.
 
 How to Use this Repository:
 Clone the repository to your local machine.
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mr-lade/java/tree/main
 Explore the individual directories for each topic and their associated practical implementations.
 
 Gain practical insights into Core and Advanced Java concepts through hands-on examples.
